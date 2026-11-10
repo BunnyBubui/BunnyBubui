@@ -21,9 +21,9 @@
     <animate attributeName="fill-opacity" values="1;0.2;1" dur="2.4s" repeatCount="indefinite"/>
   </circle>
 
-  <text x="70" y="92" fill="#94a3b8" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="20">&gt; hello world, I'm</text>
+  <text x="70" y="88" fill="#94a3b8" font-family="'SFMono-Regular',Consolas,'Liberation Mono',Menlo,monospace" font-size="22">&gt; hello world, I'm</text>
   <text x="68" y="156" fill="#f8fafc" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="58" font-weight="700">Banyapon Chaithong</text>
   <rect x="70" y="176" width="120" height="5" rx="2.5" fill="url(#accent)"/>
   <text x="70" y="220" fill="url(#accent)" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="26" font-weight="600">Full-stack · IoT · Android Developer<tspan fill="#a78bfa" dx="6">▍<animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.5;0.5;1" dur="1s" repeatCount="indefinite"/></tspan></text>
-  <text x="70" y="258" fill="#94a3b8" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="18">School of Informatics, Walailak University</text>
+  <text x="70" y="262" fill="#94a3b8" font-family="'Segoe UI',Ubuntu,'Helvetica Neue',Arial,sans-serif" font-size="22">School of Informatics, Walailak University</text>
 </svg>
