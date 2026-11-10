@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Banyapon Chaithong</h1>
 
+<p align="center"><strong>Full-stack / Software Developer Portfolio</strong></p>
+
 <h3 align="center">Undergraduate student at the School of Informatics, Walailak University<br />Major in Intelligent Information Technology</h3>
 
 <p align="center">
