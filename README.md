@@ -1,6 +1,6 @@
 <p align="center">
   <picture>
-    <source media="(max-width: 700px)" srcset="assets/banner-mobile.svg" />
+    <source media="(max-width: 700px)" srcset="https://github.com/BunnyBubui/BunnyBubui/raw/main/assets/banner-mobile.svg" />
     <img src="assets/banner.svg" alt="Banyapon Chaithong — Full-stack, IoT and Android Developer" width="100%" />
   </picture>
 </p>
